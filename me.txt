@@ -1,0 +1,5 @@
+{{#user}
+Name: Krishna Kumar
+Skills: HTML, CSS, JS, Next.js,Sql
+Email: krishnakumar.kk650.kk@gmail.com
+{{/user}}
